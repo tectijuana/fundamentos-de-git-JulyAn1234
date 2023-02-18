@@ -14,3 +14,8 @@ int main ()
 }
 
 ```
+## 🤓 Capturas de pantalla de comandos 16/02/23
+### Git Clone
+![](/Images/CAPTURAGIT.png)
+### SCP
+![](/Images/CAPTURASCP.png)
